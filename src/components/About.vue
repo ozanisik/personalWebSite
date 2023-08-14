@@ -22,15 +22,15 @@
               <div class="col-lg-6">
                 <ul>
                   <li><i class="icofont-rounded-right"></i> <strong>Birthday:</strong> 9 May 1994</li>
-                  <li><i class="icofont-rounded-right"></i> <strong>Website:</strong> www.example.com</li>
-                  <li><i class="icofont-rounded-right"></i> <strong>Phone:</strong> +90 535 736 7742</li>
-                  <li><i class="icofont-rounded-right"></i> <strong>City:</strong> Istanbul, Turkey</li>
+                  <li><i class="icofont-rounded-right"></i> <strong>Website:</strong> https://ozanisik.github.io/whoami/</li>
+                  <li><i class="icofont-rounded-right"></i> <strong>Phone:</strong> +31 638964812</li>
+                  <li><i class="icofont-rounded-right"></i> <strong>City:</strong> Amsterdam, Netherlands</li>
                 </ul>
               </div>
               <div class="col-lg-6">
                 <ul>
                   <li><i class="icofont-rounded-right"></i> <strong>Age:</strong> 26</li>
-                  <li><i class="icofont-rounded-right"></i> <strong>Degree:</strong> Master</li>
+                  <li><i class="icofont-rounded-right"></i> <strong>Degree:</strong> Bachelor Degree</li>
                   <li><i class="icofont-rounded-right"></i> <strong>Mail:</strong> isik.ozan@icloud.com</li>
                   <li><i class="icofont-rounded-right"></i> <strong>Freelance:</strong> Available</li>
                 </ul>
